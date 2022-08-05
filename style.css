@@ -1,0 +1,16 @@
+body {
+    background-color: #000;
+    margin-inline: auto;
+    width: 443px;
+    height: 591px;
+}
+
+p {
+    font-size: 4px;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    background-image: url("./Images/\'mlady1.jpg");
+    background-repeat: no-repeat;
+    margin-top: 10%;
+}
